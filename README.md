@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @divya_Parmar
-- 👀 I’m interested in analyzing data and playing with data to get actionable insights.
-- 🌱 I’m currently learning SQl and Machine Learning to enhance my skills.
-- 💞️ I’m looking for jobs to grow my skills in the UK and work on new projects. 
-- 📫 Reach out to me visa email: divya2547318@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a nerd to learn new skills, and Chatgpt is my best friend. 
