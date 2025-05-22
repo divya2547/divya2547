@@ -1,18 +1,30 @@
-👋 Hi, I’m @divya_Parmar — a data enthusiast with a strong foundation in business and tech.
+👋 Hi, I’m @divya_Parmar — an ambitious and detail-oriented data analyst passionate about transforming complex data into meaningful insights.
 
-🎓 I hold a Master’s in Business Analytics & Big Data from the University of Dundee, after completing a Bachelor's in IT Engineering and a Diploma in Computer Engineering from Mumbai University.
+🎓 I hold a Master’s in Business Analytics and Big Data from the University of Dundee, and a Bachelor's in IT Engineering along with a Diploma in Computer Engineering from Mumbai University.
 
-👀 I’m passionate about deriving actionable insights from data to support smarter decision-making and business growth.
+👀 I’m driven by curiosity and enjoy exploring datasets to uncover patterns, predict trends, and support strategic decisions.
 
-💻 Skilled in Excel, SQL, Power BI, Python, and PowerPoint — with hands-on experience in automating reports, analysing trends, and visualising KPIs.
+💻 Proficient in tools like SQL, Python, Excel, Power BI, PowerPoint, and basic QGIS, with experience in automating data workflows, designing dashboards, and presenting data-driven recommendations to stakeholders.
 
-🌱 Currently enhancing my skills in Machine Learning, advanced data storytelling, and dashboard design.
+🌱 I’m currently deepening my knowledge in business analysis techniques, including process modelling, stakeholder mapping, and requirements elicitation to support better decision-making.
 
-🤝 Experienced in collaborating across cross-functional teams and aligning analysis with business goals.
+🤝 I’ve worked with cross-functional teams and contributed to business reporting, project tracking, and client support — always aiming to bridge the gap between data and operations.
 
-📫 Contact me: divya2547318@gmail.com
+🌍 I bring versatile experience from working with FedEx, in customer service, and university event coordination, giving me a strong grasp of business operations and user needs.
+
+📫 Let’s connect: divya2547318@gmail.com 
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I learn at least one new data tip daily — ChatGPT is my go-to tool for continuous learning!
+⚡ Fun fact: I aim to learn one data or analysis hack every day — and ChatGPT is truly my favorite co-pilot!
+
+
+
+
+
+
+
+
+
+
 
