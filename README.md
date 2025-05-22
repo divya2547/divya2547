@@ -1,23 +1,18 @@
-👋 Hi, I’m @divya_Parmar.
+👋 Hi, I’m @divya_Parmar — a data enthusiast with a strong foundation in business and tech.
 
-🎓 Studied a Diploma in Computer Engineering, Bachelor's in IT Engineering from Mumbai University, and a Master's in Business Analytics and Big Data from the University of Dundee.
+🎓 I hold a Master’s in Business Analytics & Big Data from the University of Dundee, after completing a Bachelor's in IT Engineering and a Diploma in Computer Engineering from Mumbai University.
 
-👀 I’m passionate about analysing data, uncovering trends, and turning insights into strategies that drive business impact.
+👀 I’m passionate about deriving actionable insights from data to support smarter decision-making and business growth.
 
-💻 Skilled in analytical and technical tools: Excel, Python, SQL, Power BI, PowerPoint, and more.
+💻 Skilled in Excel, SQL, Power BI, Python, and PowerPoint — with hands-on experience in automating reports, analysing trends, and visualising KPIs.
 
-🌱 I’m currently learning Machine Learning and exploring advanced data analytics techniques.
+🌱 Currently enhancing my skills in Machine Learning, advanced data storytelling, and dashboard design.
 
-📈 I enjoy working on real-world data projects and continuously improving data storytelling skills.
+🤝 Experienced in collaborating across cross-functional teams and aligning analysis with business goals.
 
-🤝 I thrive in collaborative environments and love engaging with cross-functional teams.
-
-📫 Reach out to me: divya2547318@gmail.com
+📫 Contact me: divya2547318@gmail.com
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I make sure to learn one data hack a day — and ChatGPT is my best friend on that journey!
-
-☕ Outside of data, I enjoy coffee chats, mentoring peers, and staying up to date with tech trends.
-
+⚡ Fun fact: I learn at least one new data tip daily — ChatGPT is my go-to tool for continuous learning!
 
